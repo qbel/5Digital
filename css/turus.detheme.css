@@ -85,7 +85,7 @@ HEADING
   margin-right: auto;
   margin-left: auto;
   padding-top: 50px;
-  padding-bottom: 80px;
+  /* padding-bottom: 80px; */
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -1309,7 +1309,7 @@ BUTTON
 @media (max-width: 991px) {
   .section {
     padding-top: 50px;
-    padding-bottom: 50px;
+    /* padding-bottom: 50px; */
   }
   .burger-icon {
     color: #ff5c5c;
